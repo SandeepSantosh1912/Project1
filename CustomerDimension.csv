@@ -1,0 +1,101 @@
+Customer_Key,Customer_Id,First_Name,Last_Name,Address,Pincode,Phone_Number,Customer_Joining_Date
+1,CUST001,Neysa,Wyd,96150 Spaight Avenue,052837,358-620-2858,3/31/2017
+2,CUST002,Galina,Timson,72150 Drewry Street,,773-796-3685,12/22/2020
+3,CUST003,Boigie,Oag,3 Clemons Point,,733-602-6165,04-03-2018
+4,CUST004,Kimbra,Dixcee,10669 Brickson Park Center,,702-501-4948,12-09-2015
+5,CUST005,Shelbi,Blackborne,545 Pankratz Street,,199-772-1541,1/13/2016
+6,CUST006,Ronnie,Loveitt,97 Center Junction,,654-789-1109,7/27/2012
+7,CUST007,Germain,Kettell,46170 Union Alley,3810-856,888-853-0715,9/28/2014
+8,CUST008,Christin,Bleesing,2 Northridge Trail,,493-731-1174,12/26/2017
+9,CUST009,Cecilius,Oddey,423 Scoville Alley,31000,398-831-0568,7/13/2017
+10,CUST010,Maurise,Minichi,1 Havey Terrace,6130,152-921-1362,11/14/2019
+11,CUST011,Conney,Donavan,275 Algoma Terrace,85067,602-686-5338,08-06-2019
+12,CUST012,Barr,Behninck,74 Southridge Point,,925-900-2838,10/26/2012
+13,CUST013,Arlen,Mattiussi,58 Kennedy Trail,,660-905-0937,1/20/2012
+14,CUST014,Gil,Gronowe,1 Fisk Place,758-0612,425-101-1394,06-09-2014
+15,CUST015,Leelah,Wilkinson,7 Garrison Court,,866-383-4677,3/25/2017
+16,CUST016,Allison,Deegin,954 Buell Plaza,,194-718-1685,08-05-2018
+17,CUST017,Paige,Poetz,8 Hansons Street,,840-241-0571,5/28/2010
+18,CUST018,Gladys,Zieme,31 Morrow Park,,373-827-9617,05-02-2018
+19,CUST019,Winifield,Portman,2122 Miller Court,09120,989-471-6852,11-06-2011
+20,CUST020,Thomasine,Venard,3437 Hooker Terrace,1147,877-824-7691,11/27/2016
+21,CUST021,Blair,Surgey,551 Homewood Place,,629-506-7671,10/25/2013
+22,CUST022,Tadeo,Nadin,482 Lindbergh Trail,330 12,103-604-6329,05-06-2017
+23,CUST023,Sheba,Alvares,15308 Burrows Road,,876-815-5632,08-09-2021
+24,CUST024,Enrico,Oland,5 School Pass,,581-949-6080,01-05-2016
+25,CUST025,Danica,Malia,5 American Drive,,904-515-5769,4/29/2016
+26,CUST026,Doralynne,MacAne,72 Manley Circle,356407,985-125-3026,4/26/2015
+27,CUST027,Tybi,Blacklidge,2691 Gale Park,91210,818-609-0261,12/26/2014
+28,CUST028,Leonhard,McAughtrie,649 Pennsylvania Plaza,57031,576-673-2013,12/20/2015
+29,CUST029,Dottie,Saladine,6 Westridge Court,,563-687-2667,2/16/2010
+30,CUST030,Kary,Heathcoat,91723 Marcy Crossing,4800-005,598-620-8101,1/18/2011
+31,CUST031,Kingsley,Dooly,68 Ohio Circle,,112-645-2130,04-08-2021
+32,CUST032,Vincenz,Le Sarr,3 Truax Park,437 36,216-664-9206,09-06-2010
+33,CUST033,Derk,Mogenot,7633 Moulton Lane,,577-231-6868,05-04-2011
+34,CUST034,Phyllys,Rocks,20690 Jenna Road,58503,396-173-8450,10/22/2012
+35,CUST035,Angela,Chasemoore,430 Burning Wood Terrace,,359-984-1075,03-04-2020
+36,CUST036,Casar,Caffrey,21 Surrey Way,,292-242-4028,07-09-2021
+37,CUST037,Joellyn,Lafond,6352 Blackbird Trail,,932-126-0265,11/24/2011
+38,CUST038,Abner,Bliben,1566 Monument Court,,100-526-0825,5/20/2017
+39,CUST039,Si,Brendeke,44 Redwing Plaza,2264,148-907-3886,2/24/2011
+40,CUST040,Jefferson,Moriarty,9 Bonner Parkway,445359,437-239-6023,2/18/2018
+41,CUST041,Dione,McTerrelly,25 Garrison Road,,429-762-4282,01-05-2020
+42,CUST042,Nolan,Brasener,65 Fisk Park,,618-729-0513,11-08-2020
+43,CUST043,Kriste,Ganderton,990 Aberg Road,,247-773-1479,09-05-2014
+44,CUST044,Teddy,Jacob,8793 Golf Trail,452607,916-646-1436,09-06-2021
+45,CUST045,Janos,Guerrero,4 Darwin Point,,726-422-3574,5/27/2014
+46,CUST046,Fairleigh,Goodley,37 Hanson Terrace,1200,250-486-4716,1/24/2019
+47,CUST047,Zorah,Zanre,8322 Northridge Court,,686-217-2647,5/26/2016
+48,CUST048,Ondrea,Margerison,0365 Florence Court,,584-211-2404,10/18/2020
+49,CUST049,Dicky,Summerly,8 Clemons Trail,,580-203-1282,8/18/2010
+50,CUST050,Bat,Samber,6 Jackson Street,,595-413-3371,3/18/2019
+51,CUST051,Alica,Nequest,105 Montana Way,9013,497-881-0387,07-11-2014
+52,CUST052,Wilie,Foulds,2 Nobel Pass,96130,287-413-7329,6/16/2016
+53,CUST053,Eduino,Milligan,9182 Derek Terrace,,785-116-5882,05-05-2011
+54,CUST054,Maren,Worsnap,2 Linden Circle,527548,765-372-4964,7/16/2014
+55,CUST055,Joe,Gisbourn,5 Darwin Lane,678214,359-246-5355,7/27/2014
+56,CUST056,Agata,Salatino,73 Roth Center,,141-161-8178,12/20/2021
+57,CUST057,Gordie,Pargent,579 Welch Plaza,5936,953-930-4399,10/22/2016
+58,CUST058,Huntlee,Duffus,0 Thierer Avenue,8710,974-259-0357,12/30/2020
+59,CUST059,Rachael,Stell,85 Marquette Hill,369-0137,291-872-5017,11-02-2018
+60,CUST060,Kienan,Albisser,7984 Buhler Pass,,196-503-1502,1/19/2011
+61,CUST061,Georgie,Dreakin,2 Lien Junction,11504,203-321-7387,7/28/2020
+62,CUST062,Tamqrah,Tappor,721 Utah Plaza,1480,563-324-3184,03-01-2019
+63,CUST063,Thayne,Scullard,1 Pearson Drive,,782-219-3909,6/21/2017
+64,CUST064,Heidie,Gaisford,00023 Bay Plaza,62692,462-118-9084,04-03-2013
+65,CUST065,Larry,Curson,59072 Merchant Place,1316,899-167-1261,6/24/2015
+66,CUST066,Wallie,Platt,50653 Butternut Plaza,,719-729-5341,05-07-2015
+67,CUST067,Idalia,Gino,1779 Manley Street,,251-622-1441,12/27/2013
+68,CUST068,Martin,Brunone,37 Autumn Leaf Terrace,J6V,299-874-5890,6/24/2015
+69,CUST069,Blair,Harg,724 Village Pass,,478-897-7830,02-02-2018
+70,CUST070,Carmon,Mabson,16794 Oakridge Lane,05-509,651-547-4482,10/21/2016
+71,CUST071,Kennie,Cassius,9 Porter Street,,680-126-7978,04-10-2014
+72,CUST072,Margaret,Pechan,0260 Transport Center,,999-382-9226,02-04-2012
+73,CUST073,Bobbee,Seeviour,53813 Iowa Lane,306205,964-448-4219,12-06-2011
+74,CUST074,Royal,Postins,6 Lakewood Drive,,710-640-3152,6/15/2013
+75,CUST075,Mannie,Dunsmore,1 Russell Trail,,879-329-1409,06-05-2013
+76,CUST076,Cecelia,Cassedy,1 Karstens Road,309296,477-445-3498,07-04-2017
+77,CUST077,Barnard,Farmiloe,843 Gina Trail,,801-495-9087,04-06-2016
+78,CUST078,Ellyn,Strand,9 Scott Street,,524-756-2003,06-10-2012
+79,CUST079,Ree,Elt,9 Schurz Trail,47180,160-763-4435,9/28/2016
+80,CUST080,Emalee,Cornilleau,2 Canary Junction,,649-966-2832,07-11-2014
+81,CUST081,Pall,Klimke,167 Caliangt Center,97229,503-114-8486,5/23/2015
+82,CUST082,Corette,Murty,79353 Paget Avenue,2423,203-582-9633,4/27/2011
+83,CUST083,Gardiner,Norcliff,0 Kings Crossing,96170-000,572-553-5272,10/22/2019
+84,CUST084,Norri,Pithie,6669 Cody Crossing,20311 CEDEX 1,567-505-2310,07-09-2015
+85,CUST085,Humbert,Candwell,80954 Fulton Avenue,,254-810-7413,7/14/2017
+86,CUST086,Cindi,Fillan,5870 Bunker Hill Court,91501,771-849-5638,09-04-2015
+87,CUST087,Gil,Bould,95387 Eagle Crest Terrace,353798,225-188-6407,07-04-2010
+88,CUST088,Lyndsay,Cranmor,44465 Scott Drive,,164-586-4585,05-07-2012
+89,CUST089,Alphonse,Rubra,95082 Anniversary Point,25130,132-458-0561,11-10-2021
+90,CUST090,Paco,Pope,2 Schmedeman Circle,38680-000,121-148-4854,2/21/2018
+91,CUST091,Larina,Shottin,31 Center Terrace,355011,562-289-9524,10-10-2019
+92,CUST092,Herminia,Merrilees,662 Forest Dale Center,,914-935-1239,07-10-2013
+93,CUST093,Raquel,Merrison,2144 Center Circle,5611,918-998-2927,1/30/2015
+94,CUST094,Lisetta,Byart,6314 Melby Pass,765 02,140-977-7928,02-10-2014
+95,CUST095,Lezlie,Pedican,05476 Green Ridge Lane,15274,412-810-0857,3/23/2019
+96,CUST096,Gram,Egre,5889 Bonner Avenue,561 81,469-498-1087,02-05-2011
+97,CUST097,Jeffrey,Drinan,81591 Bellgrove Parkway,899-1922,867-949-7086,9/17/2011
+98,CUST098,Ariel,Snar,94 Alpine Avenue,,975-909-2795,4/27/2014
+99,CUST099,Agnese,Bloyes,895 Farmco Street,2785-581,336-567-4382,01-11-2017
+100,CUST100,Selena,Faulder,9 Sugar Circle,70805,730-746-9355,11/13/2012
