@@ -1,0 +1,13 @@
+Source_System,Source_Column,Standad_Column
+CRM,Cust_Num,customer_id
+POS,CustomerID,customer_id
+ERP,Client_Code,customer_id
+CRM,Store_Num,store_id
+POS,StoreID,store_id
+ERP,Store_Code,store_id
+POS,EmployeeID,employee_id
+CRM,Employee_Num,employee_id
+ERP,Employee_Code,employee_id
+CRM,Product_Num,product_id
+POS,ProductID,product_id
+ERP,Product_Code,product_id
