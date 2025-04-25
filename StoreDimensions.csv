@@ -1,6 +1,6 @@
-Store_Key,Store_Id,Address,Store_Pincode,Store_Manager_Name,Store_Opening_Date
-1,ST1005,9091 American Ash Plaza,,Avivah Ratie,4/16/2013
-2,ST1005,7012 Barnett Place,27409,Lucina Sonley,7/25/2014
-3,ST1005,92 Ridgeview Parkway,35076 CEDEX 9,Sebastiano Layhe,8/14/2013
-4,ST1005,1 Bonner Drive,21006,Lory Knipe,1/29/2014
-5,ST1003,0803 Buhler Place,,Corie Steuart,5/16/2013
+Store_Id,Address,Store_Pincode,Store_Manager_Name,Store_Opening_Date
+ST1001,9091 American Ash Plaza,,Avivah Ratie,4/16/2013
+ST1002,7012 Barnett Place,27409,Lucina Sonley,7/25/2014
+ST1003,92 Ridgeview Parkway,35076 CEDEX 9,Sebastiano Layhe,8/14/2013
+ST1004,1 Bonner Drive,21006,Lory Knipe,1/29/2014
+ST1005,0803 Buhler Place,,Corie Steuart,5/16/2013

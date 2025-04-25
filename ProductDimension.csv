@@ -1,306 +1,306 @@
-Product_Key,Product_ID,Product_Name,Brand,Color,Size,Weight,Material,Price,Launch_Date,Discontinued_Date,Stock_Quantity,Supplier,Product_Description
-1,PROD001,ZTE Star 2,ZTE,Aquamarine,64GB,5.67,Metal,51751.88,8/15/2020,null,39,Rhynyx,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
+Product_ID,Product_Name,Brand,Color,Size,Weight,Material,Price,Launch_Date,Discontinued_Date,Stock_Quantity,Supplier,Product_Description
+PROD001,ZTE Star 2,ZTE,Aquamarine,64GB,5.67,Metal,51751.88,8/15/2020,null,39,Rhynyx,"Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
 
 In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
-2,PROD002,Honor Holly,Honor,Khaki,256GB,21.85,Plastic,56938.25,9/25/2010,null,5,Jatri,In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
-3,PROD003,Sendo J530,Sendo,Puce,256GB,9.93,Metal,55795.13,4/27/2024,null,19,Jabbertype,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
+PROD002,Honor Holly,Honor,Khaki,256GB,21.85,Plastic,56938.25,9/25/2010,null,5,Jatri,In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
+PROD003,Sendo J530,Sendo,Puce,256GB,9.93,Metal,55795.13,4/27/2024,null,19,Jabbertype,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.
 
 Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.
 
 Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris."
-4,PROD004,Philips Xenium 9@9h,Philips,Yellow,256GB,15.34,Plastic,81498.93,12/16/2021,null,39,Yambee,Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
-5,PROD005,Amoi E78,Amoi,Violet,128GB,39.51,Plastic,5930.16,11/14/2022,null,32,Twinder,"In congue. Etiam justo. Etiam pretium iaculis justo.
+PROD004,Philips Xenium 9@9h,Philips,Yellow,256GB,15.34,Plastic,81498.93,12/16/2021,null,39,Yambee,Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
+PROD005,Amoi E78,Amoi,Violet,128GB,39.51,Plastic,5930.16,11/14/2022,null,32,Twinder,"In congue. Etiam justo. Etiam pretium iaculis justo.
 
 In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus."
-6,PROD006,vivo V15 Pro,vivo,Blue,256GB,26.18,Metal,7157.07,04-11-2018,null,12,Linktype,"Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
+PROD006,vivo V15 Pro,vivo,Blue,256GB,26.18,Metal,7157.07,04-11-2018,null,12,Linktype,"Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
 
 Fusce consequat. Nulla nisl. Nunc nisl."
-7,PROD007,Samsung Galaxy Star 2,Samsung,Turquoise,256GB,34.41,Metal,25949.29,6/21/2010,null,22,Livetube,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
+PROD007,Samsung Galaxy Star 2,Samsung,Turquoise,256GB,34.41,Metal,25949.29,6/21/2010,null,22,Livetube,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
 
 Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus."
-8,PROD008,QMobile Noir A120,QMobile,Goldenrod,256GB,33.87,Metal,42730.91,02-01-2023,null,39,Centidel,Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
-9,PROD009,Samsung Galaxy Tab A 8.0 (2017),Samsung,Puce,64GB,33.32,Metal,72849.69,4/26/2019,null,17,Voomm,"In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
+PROD008,QMobile Noir A120,QMobile,Goldenrod,256GB,33.87,Metal,42730.91,02-01-2023,null,39,Centidel,Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
+PROD009,Samsung Galaxy Tab A 8.0 (2017),Samsung,Puce,64GB,33.32,Metal,72849.69,4/26/2019,null,17,Voomm,"In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
 
 Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst."
-10,PROD010,Lenovo K12 Pro,Lenovo,Crimson,512G,21.99,Plastic,96340.67,6/21/2012,null,20,Mita,"Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis."
-11,PROD011,Sony Ericsson T230,Sony,Khaki,256GB,28.66,Plastic,75708.51,03-10-2019,null,36,Vipe,"Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
+PROD010,Lenovo K12 Pro,Lenovo,Crimson,512G,21.99,Plastic,96340.67,6/21/2012,null,20,Mita,"Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis."
+PROD011,Sony Ericsson T230,Sony,Khaki,256GB,28.66,Plastic,75708.51,03-10-2019,null,36,Vipe,"Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
 
 Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
 
 Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem."
-12,PROD012,Energizer Energy E241,Energizer,Fuscia,256GB,17.36,Plastic,98283.41,1/14/2023,null,7,Plajo,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
+PROD012,Energizer Energy E241,Energizer,Fuscia,256GB,17.36,Plastic,98283.41,1/14/2023,null,7,Plajo,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
 
 Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
 
 Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero."
-13,PROD013,Sony Xperia M2 Aqua,Sony,Yellow,256GB,15.89,Metal,33975.46,3/30/2018,null,8,Yamia,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
-14,PROD014,Samsung Galaxy Tab S 10.5 LTE,Samsung,Mauv,512G,43.05,Plastic,17380.67,2/14/2020,null,16,Edgepulse,"Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
+PROD013,Sony Xperia M2 Aqua,Sony,Yellow,256GB,15.89,Metal,33975.46,3/30/2018,null,8,Yamia,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+PROD014,Samsung Galaxy Tab S 10.5 LTE,Samsung,Mauv,512G,43.05,Plastic,17380.67,2/14/2020,null,16,Edgepulse,"Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
 
 Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio."
-15,PROD015,Nokia Lumia 1320,Nokia,Maroon,512G,21.96,Plastic,99876.22,6/29/2022,null,36,Skinix,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
+PROD015,Nokia Lumia 1320,Nokia,Maroon,512G,21.96,Plastic,99876.22,6/29/2022,null,36,Skinix,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
 
 Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
 
 Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus."
-16,PROD016,Samsung Galaxy Nexus LTE L700,Samsung,Yellow,64GB,36.9,Metal,29542.21,5/23/2014,null,26,Kazio,"In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus."
-17,PROD017,Micromax A101,Micromax,Teal,64GB,25.44,Metal,97466.27,06-12-2020,null,16,Trudoo,In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
-18,PROD018,BlackBerry Q10,BlackBerry,Fuscia,256GB,28.08,Plastic,77058.65,3/19/2017,null,10,Brightdog,"Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
+PROD016,Samsung Galaxy Nexus LTE L700,Samsung,Yellow,64GB,36.9,Metal,29542.21,5/23/2014,null,26,Kazio,"In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus."
+PROD017,Micromax A101,Micromax,Teal,64GB,25.44,Metal,97466.27,06-12-2020,null,16,Trudoo,In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
+PROD018,BlackBerry Q10,BlackBerry,Fuscia,256GB,28.08,Plastic,77058.65,3/19/2017,null,10,Brightdog,"Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
 
 Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
 
 Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
-19,PROD019,T-Mobile myTouch qwerty,T-Mobile,Yellow,256GB,36.33,Plastic,57587.74,02-05-2015,null,41,Voomm,"Phasellus in felis. Donec semper sapien a libero. Nam dui.
+PROD019,T-Mobile myTouch qwerty,T-Mobile,Yellow,256GB,36.33,Plastic,57587.74,02-05-2015,null,41,Voomm,"Phasellus in felis. Donec semper sapien a libero. Nam dui.
 
 Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius."
-20,PROD020,Nokia 5.3,Nokia,Teal,64GB,38.42,Plastic,2765.89,9/26/2018,null,34,Devcast,"Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros."
-21,PROD021,Icemobile Prime 4.0 Plus,Icemobile,Turquoise,256GB,17.48,Plastic,64442.81,11/15/2014,null,24,Skalith,"Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
+PROD020,Nokia 5.3,Nokia,Teal,64GB,38.42,Plastic,2765.89,9/26/2018,null,34,Devcast,"Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros."
+PROD021,Icemobile Prime 4.0 Plus,Icemobile,Turquoise,256GB,17.48,Plastic,64442.81,11/15/2014,null,24,Skalith,"Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
 
 Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
 
 In congue. Etiam justo. Etiam pretium iaculis justo."
-22,PROD022,Samsung I5801 Galaxy Apollo,Samsung,Puce,512G,46.88,Metal,28471.74,12/27/2011,null,29,Wikizz,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+PROD022,Samsung I5801 Galaxy Apollo,Samsung,Puce,512G,46.88,Metal,28471.74,12/27/2011,null,29,Wikizz,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 
 Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl."
-23,PROD023,Motorola E1000,Motorola,Goldenrod,128GB,16.17,Plastic,27933.22,8/15/2012,null,0,Fiveclub,"Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
+PROD023,Motorola E1000,Motorola,Goldenrod,128GB,16.17,Plastic,27933.22,8/15/2012,null,0,Fiveclub,"Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
 
 Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede."
-24,PROD024,Micromax GC360,Micromax,Puce,256GB,0.05,Plastic,54730.89,05-12-2011,null,28,Feedmix,"In congue. Etiam justo. Etiam pretium iaculis justo.
+PROD024,Micromax GC360,Micromax,Puce,256GB,0.05,Plastic,54730.89,05-12-2011,null,28,Feedmix,"In congue. Etiam justo. Etiam pretium iaculis justo.
 
 In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus."
-25,PROD025,Micromax X335,Micromax,Fuscia,128GB,0.83,Plastic,10148.56,7/20/2015,null,29,Realmix,Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
-26,PROD026,Lava Iris Pro 30+,Lava,Yellow,512G,11.31,Metal,39048.54,03-03-2022,null,39,Livepath,"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
+PROD025,Micromax X335,Micromax,Fuscia,128GB,0.83,Plastic,10148.56,7/20/2015,null,29,Realmix,Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
+PROD026,Lava Iris Pro 30+,Lava,Yellow,512G,11.31,Metal,39048.54,03-03-2022,null,39,Livepath,"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.
 
 Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.
 
 Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem."
-27,PROD027,Apple iPhone 8,Apple,Aquamarine,128GB,15.69,Plastic,84505.94,11/21/2017,null,25,Brightbean,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
+PROD027,Apple iPhone 8,Apple,Aquamarine,128GB,15.69,Plastic,84505.94,11/21/2017,null,25,Brightbean,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
 
 In congue. Etiam justo. Etiam pretium iaculis justo."
-28,PROD028,Sony Ericsson S500,Sony,Crimson,512G,37.09,Plastic,18939.32,10-04-2019,null,14,Podcat,"Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
+PROD028,Sony Ericsson S500,Sony,Crimson,512G,37.09,Plastic,18939.32,10-04-2019,null,14,Podcat,"Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.
 
 Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
 
 Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede."
-29,PROD029,vivo V19,vivo,Pink,512G,1.03,Metal,64463.78,10-04-2011,null,5,Quinu,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
+PROD029,vivo V19,vivo,Pink,512G,1.03,Metal,64463.78,10-04-2011,null,5,Quinu,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.
 
 Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
 
 Sed ante. Vivamus tortor. Duis mattis egestas metus."
-30,PROD030,Samsung L770,Samsung,Red,512G,0.99,Metal,72383.01,11/18/2020,null,28,Jaxworks,"Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
+PROD030,Samsung L770,Samsung,Red,512G,0.99,Metal,72383.01,11/18/2020,null,28,Jaxworks,"Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
 
 Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
 
 In congue. Etiam justo. Etiam pretium iaculis justo."
-31,PROD031,Motorola FIRE XT,Motorola,Aquamarine,256GB,39.31,Metal,71935.45,6/29/2016,null,50,Trilia,Phasellus in felis. Donec semper sapien a libero. Nam dui.
-32,PROD032,Unnecto Drone,Unnecto,Teal,64GB,1.92,Metal,15369.14,8/24/2023,null,45,Dynazzy,"Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
+PROD031,Motorola FIRE XT,Motorola,Aquamarine,256GB,39.31,Metal,71935.45,6/29/2016,null,50,Trilia,Phasellus in felis. Donec semper sapien a libero. Nam dui.
+PROD032,Unnecto Drone,Unnecto,Teal,64GB,1.92,Metal,15369.14,8/24/2023,null,45,Dynazzy,"Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
 
 Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.
 
 Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh."
-33,PROD033,NIU Niutek N109,NIU,Puce,64GB,39.94,Plastic,30260.76,11/19/2021,null,15,Twinte,"Sed ante. Vivamus tortor. Duis mattis egestas metus.
+PROD033,NIU Niutek N109,NIU,Puce,64GB,39.94,Plastic,30260.76,11/19/2021,null,15,Twinte,"Sed ante. Vivamus tortor. Duis mattis egestas metus.
 
 Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh."
-34,PROD034,Allview X4 Soul,Allview,Turquoise,512G,43.73,Metal,34450.28,5/28/2015,null,36,Thoughtstorm,"Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
+PROD034,Allview X4 Soul,Allview,Turquoise,512G,43.73,Metal,34450.28,5/28/2015,null,36,Thoughtstorm,"Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
 
 Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque."
-35,PROD035,BLU Deejay,BLU,Puce,256GB,24.95,Plastic,38805.77,10-05-2013,null,45,Vipe,"In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
+PROD035,BLU Deejay,BLU,Puce,256GB,24.95,Plastic,38805.77,10-05-2013,null,45,Vipe,"In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
 
 Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
 
 Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque."
-36,PROD036,alcatel OT-I650 PRO,alcatel,Orange,64GB,29.13,Plastic,56076.35,12/29/2013,null,20,Eayo,Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
-37,PROD037,Sony Xperia U,Sony,Green,64GB,24.78,Plastic,42211.96,04-08-2014,null,26,Riffpath,Phasellus in felis. Donec semper sapien a libero. Nam dui.
-38,PROD038,alcatel 2040,alcatel,Green,256GB,33.16,Metal,31309.69,02-10-2015,null,10,Mynte,Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
-39,PROD039,Micromax Q2,Micromax,Pink,128GB,44.73,Plastic,1315.78,4/24/2011,null,14,Feedspan,"Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem."
-40,PROD040,Lava Iris 350m,Lava,Purple,256GB,32.39,Plastic,94738.99,05-06-2024,null,46,Jayo,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+PROD036,alcatel OT-I650 PRO,alcatel,Orange,64GB,29.13,Plastic,56076.35,12/29/2013,null,20,Eayo,Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
+PROD037,Sony Xperia U,Sony,Green,64GB,24.78,Plastic,42211.96,04-08-2014,null,26,Riffpath,Phasellus in felis. Donec semper sapien a libero. Nam dui.
+PROD038,alcatel 2040,alcatel,Green,256GB,33.16,Metal,31309.69,02-10-2015,null,10,Mynte,Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
+PROD039,Micromax Q2,Micromax,Pink,128GB,44.73,Plastic,1315.78,4/24/2011,null,14,Feedspan,"Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem."
+PROD040,Lava Iris 350m,Lava,Purple,256GB,32.39,Plastic,94738.99,05-06-2024,null,46,Jayo,"Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 
 Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
 
 Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum."
-41,PROD041,Apple iPhone 8,Apple,Mauv,512G,40.05,Metal,32259.26,5/21/2022,null,24,Gigazoom,"Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
+PROD041,Apple iPhone 8,Apple,Mauv,512G,40.05,Metal,32259.26,5/21/2022,null,24,Gigazoom,"Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
 
 In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet."
-42,PROD042,ZTE PF112 HD,ZTE,Mauv,256GB,35.76,Plastic,77065.06,04-05-2021,null,50,Mydeo,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
+PROD042,ZTE PF112 HD,ZTE,Mauv,256GB,35.76,Plastic,77065.06,04-05-2021,null,50,Mydeo,"Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.
 
 Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam."
-43,PROD043,Coolpad Max,Coolpad,Purple,64GB,11.28,Plastic,31752.56,10-06-2018,null,43,Fivebridge,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis."
-44,PROD044,vivo S1 Prime,vivo,Fuscia,128GB,0.54,Metal,50949.15,12/23/2011,null,14,Tavu,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
-45,PROD045,Samsung Galaxy Note 10.1 (2014),Samsung,Green,256GB,34.14,Metal,51971.38,3/15/2019,null,23,Browsecat,"Sed ante. Vivamus tortor. Duis mattis egestas metus.
+PROD043,Coolpad Max,Coolpad,Purple,64GB,11.28,Plastic,31752.56,10-06-2018,null,43,Fivebridge,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis."
+PROD044,vivo S1 Prime,vivo,Fuscia,128GB,0.54,Metal,50949.15,12/23/2011,null,14,Tavu,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+PROD045,Samsung Galaxy Note 10.1 (2014),Samsung,Green,256GB,34.14,Metal,51971.38,3/15/2019,null,23,Browsecat,"Sed ante. Vivamus tortor. Duis mattis egestas metus.
 
 Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh."
-46,PROD046,Micromax A65 Bolt,Micromax,Fuscia,512G,29.58,Plastic,17795.8,1/17/2016,null,35,Eire,"Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
+PROD046,Micromax A65 Bolt,Micromax,Fuscia,512G,29.58,Plastic,17795.8,1/17/2016,null,35,Eire,"Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
 
 Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat."
-47,PROD047,Sony Ericsson Z555,Sony,Puce,256GB,28.07,Metal,40062.86,10/24/2021,null,43,Topdrive,"Fusce consequat. Nulla nisl. Nunc nisl.
+PROD047,Sony Ericsson Z555,Sony,Puce,256GB,28.07,Metal,40062.86,10/24/2021,null,43,Topdrive,"Fusce consequat. Nulla nisl. Nunc nisl.
 
 Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.
 
 In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
-48,PROD048,LG Stylo 6,LG,Orange,256GB,0.6,Metal,29332.36,12-11-2010,null,44,Innojam,"Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
+PROD048,LG Stylo 6,LG,Orange,256GB,0.6,Metal,29332.36,12-11-2010,null,44,Innojam,"Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
 
 Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem."
-49,PROD049,Mitac MIO 8390,Mitac,Red,512G,32.25,Metal,17788.31,11/20/2018,null,44,Bluezoom,"Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
+PROD049,Mitac MIO 8390,Mitac,Red,512G,32.25,Metal,17788.31,11/20/2018,null,44,Bluezoom,"Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
 
 Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
 
 Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est."
-50,PROD050,TCL 20 SE,TCL,Aquamarine,64GB,19.94,Metal,58400.74,3/24/2012,null,36,Centimia,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
+PROD050,TCL 20 SE,TCL,Aquamarine,64GB,19.94,Metal,58400.74,3/24/2012,null,36,Centimia,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
 
 In congue. Etiam justo. Etiam pretium iaculis justo."
-51,PROD051,BQ Aquaris X Pro,BQ,Goldenrod,64GB,16.56,Metal,64826.93,04-04-2022,null,2,Pixope,"Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
+PROD051,BQ Aquaris X Pro,BQ,Goldenrod,64GB,16.56,Metal,64826.93,04-04-2022,null,2,Pixope,"Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
 
 Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
 
 Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit."
-52,PROD052,Samsung I9500 Galaxy S4,Samsung,Violet,64GB,20.99,Plastic,97793.28,3/21/2015,null,25,Jaxbean,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.
+PROD052,Samsung I9500 Galaxy S4,Samsung,Violet,64GB,20.99,Plastic,97793.28,3/21/2015,null,25,Jaxbean,"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.
 
 Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis."
-53,PROD053,AT&T 8525,AT&T,Mauv,128GB,17.75,Plastic,32372.28,1/22/2011,null,5,Skinder,"Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
+PROD053,AT&T 8525,AT&T,Mauv,128GB,17.75,Plastic,32372.28,1/22/2011,null,5,Skinder,"Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
 
 Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
 
 Fusce consequat. Nulla nisl. Nunc nisl."
-54,PROD054,Lenovo Z6 Pro 5G,Lenovo,Khaki,512G,6.04,Metal,43905.19,8/23/2022,null,34,Abatz,"Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
+PROD054,Lenovo Z6 Pro 5G,Lenovo,Khaki,512G,6.04,Metal,43905.19,8/23/2022,null,34,Abatz,"Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.
 
 Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
-55,PROD055,Siemens AL21,Siemens,Maroon,512G,11.14,Plastic,52068.95,04-11-2010,null,49,Aibox,"Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
+PROD055,Siemens AL21,Siemens,Maroon,512G,11.14,Plastic,52068.95,04-11-2010,null,49,Aibox,"Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
 
 Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
 
 Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus."
-56,PROD056,Xiaomi Mi Watch (China),Xiaomi,Puce,512G,41.15,Plastic,40181.84,12-04-2017,null,7,Voonyx,"Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
+PROD056,Xiaomi Mi Watch (China),Xiaomi,Puce,512G,41.15,Plastic,40181.84,12-04-2017,null,7,Voonyx,"Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.
 
 Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat."
-57,PROD057,vivo iQOO Neo3 5G,vivo,Goldenrod,512G,32.7,Plastic,42819.16,03-04-2018,null,11,Yodel,"Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
+PROD057,vivo iQOO Neo3 5G,vivo,Goldenrod,512G,32.7,Plastic,42819.16,03-04-2018,null,11,Yodel,"Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
 
 Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque."
-58,PROD058,Samsung T729 Blast,Samsung,Goldenrod,128GB,42.44,Plastic,80398.86,11/24/2021,null,3,Rhynyx,"Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
+PROD058,Samsung T729 Blast,Samsung,Goldenrod,128GB,42.44,Plastic,80398.86,11/24/2021,null,3,Rhynyx,"Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
 
 In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus."
-59,PROD059,Orange Rio II,Orange,Mauv,256GB,6.68,Plastic,57999.92,4/18/2022,null,44,Meedoo,"Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
+PROD059,Orange Rio II,Orange,Mauv,256GB,6.68,Plastic,57999.92,4/18/2022,null,44,Meedoo,"Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
 
 In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
 
 Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst."
-60,PROD060,Micromax A92,Micromax,Yellow,256GB,19.69,Metal,55764.61,09-08-2014,null,34,Kanoodle,"Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
+PROD060,Micromax A92,Micromax,Yellow,256GB,19.69,Metal,55764.61,09-08-2014,null,34,Kanoodle,"Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.
 
 Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
 
 Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque."
-61,PROD061,BLU Studio Energy,BLU,Violet,64GB,11.12,Plastic,94613.24,08-11-2018,null,47,Voomm,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
-62,PROD062,Toshiba TX80,Toshiba,Puce,64GB,31.07,Metal,60747.06,01-03-2016,null,41,Gigashots,"Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
+PROD061,BLU Studio Energy,BLU,Violet,64GB,11.12,Plastic,94613.24,08-11-2018,null,47,Voomm,"In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+PROD062,Toshiba TX80,Toshiba,Puce,64GB,31.07,Metal,60747.06,01-03-2016,null,41,Gigashots,"Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
 
 Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
 
 Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem."
-63,PROD063,Sony Ericsson S312,Sony,Yellow,256GB,18.51,Plastic,49758.7,2/25/2011,null,4,Skyba,Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
-64,PROD064,Samsung Galaxy A9 (2018),Samsung,Khaki,512G,34.71,Plastic,37827.01,5/18/2019,null,0,Voonix,"Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
+PROD063,Sony Ericsson S312,Sony,Yellow,256GB,18.51,Plastic,49758.7,2/25/2011,null,4,Skyba,Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
+PROD064,Samsung Galaxy A9 (2018),Samsung,Khaki,512G,34.71,Plastic,37827.01,5/18/2019,null,0,Voonix,"Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.
 
 Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
 
 Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat."
-65,PROD065,Samsung B100,Samsung,Blue,512G,46.18,Metal,71981.66,12-11-2012,null,44,Fatz,"Phasellus in felis. Donec semper sapien a libero. Nam dui.
+PROD065,Samsung B100,Samsung,Blue,512G,46.18,Metal,71981.66,12-11-2012,null,44,Fatz,"Phasellus in felis. Donec semper sapien a libero. Nam dui.
 
 Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius."
-66,PROD066,Oppo A37,Oppo,Khaki,512G,4.89,Plastic,90494.97,03-07-2025,null,2,Innojam,"In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus."
-67,PROD067,Huawei Ascend G740,Huawei,Indigo,64GB,30.12,Metal,55486.21,5/23/2014,null,2,Tagpad,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
-68,PROD068,Karbonn S9 Titanium,Karbonn,Indigo,128GB,37.91,Plastic,14449.46,3/19/2021,null,3,Dynava,"Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
+PROD066,Oppo A37,Oppo,Khaki,512G,4.89,Plastic,90494.97,03-07-2025,null,2,Innojam,"In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus."
+PROD067,Huawei Ascend G740,Huawei,Indigo,64GB,30.12,Metal,55486.21,5/23/2014,null,2,Tagpad,Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.
+PROD068,Karbonn S9 Titanium,Karbonn,Indigo,128GB,37.91,Plastic,14449.46,3/19/2021,null,3,Dynava,"Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.
 
 Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat."
-69,PROD069,Mitac MIO A502,Mitac,Indigo,128GB,11.93,Metal,33717.16,11/30/2020,null,1,Skipfire,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+PROD069,Mitac MIO A502,Mitac,Indigo,128GB,11.93,Metal,33717.16,11/30/2020,null,1,Skipfire,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 
 Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
 
 Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio."
-70,PROD070,HTC Sensation,HTC,Teal,256GB,19.79,Plastic,50020.15,4/15/2018,null,5,Vimbo,"Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
+PROD070,HTC Sensation,HTC,Teal,256GB,19.79,Plastic,50020.15,4/15/2018,null,5,Vimbo,"Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.
 
 Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.
 
 Phasellus in felis. Donec semper sapien a libero. Nam dui."
-71,PROD071,Wiko View2 Plus,Wiko,Red,256GB,26.87,Plastic,24996.83,6/22/2013,null,5,Kazu,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui."
-72,PROD072,Coolpad Mega 3,Coolpad,Maroon,512G,23.25,Plastic,21865.97,11/29/2016,null,3,Flashdog,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
+PROD071,Wiko View2 Plus,Wiko,Red,256GB,26.87,Plastic,24996.83,6/22/2013,null,5,Kazu,"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui."
+PROD072,Coolpad Mega 3,Coolpad,Maroon,512G,23.25,Plastic,21865.97,11/29/2016,null,3,Flashdog,"Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
 
 Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.
 
 Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus."
-73,PROD073,Samsung X450,Samsung,Green,256GB,11.68,Metal,88041.68,02-06-2019,null,35,Trudoo,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
+PROD073,Samsung X450,Samsung,Green,256GB,11.68,Metal,88041.68,02-06-2019,null,35,Trudoo,"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.
 
 In congue. Etiam justo. Etiam pretium iaculis justo.
 
 In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus."
-74,PROD074,Plum Stubby,Plum,Purple,64GB,12.85,Metal,77219.89,11-07-2017,null,5,Realbridge,"Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
+PROD074,Plum Stubby,Plum,Purple,64GB,12.85,Metal,77219.89,11-07-2017,null,5,Realbridge,"Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
 
 In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
 
 Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui."
-75,PROD075,Samsung D900,Samsung,Mauv,512G,7.86,Metal,5122.51,08-07-2018,null,9,Skajo,"Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
+PROD075,Samsung D900,Samsung,Mauv,512G,7.86,Metal,5122.51,08-07-2018,null,9,Skajo,"Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.
 
 In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus."
-76,PROD076,alcatel Idol 3 (4.7),alcatel,Khaki,256GB,35.5,Plastic,85234.31,05-12-2020,null,21,Rhynoodle,"Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl."
-77,PROD077,Celkon A64,Celkon,Purple,64GB,30.69,Metal,98005.74,12/19/2016,null,24,Plambee,"Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis."
-78,PROD078,LG Optimus LTE Tag,LG,Orange,256GB,28.74,Metal,28459.94,09-01-2020,null,7,Geba,"Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
+PROD076,alcatel Idol 3 (4.7),alcatel,Khaki,256GB,35.5,Plastic,85234.31,05-12-2020,null,21,Rhynoodle,"Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl."
+PROD077,Celkon A64,Celkon,Purple,64GB,30.69,Metal,98005.74,12/19/2016,null,24,Plambee,"Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis."
+PROD078,LG Optimus LTE Tag,LG,Orange,256GB,28.74,Metal,28459.94,09-01-2020,null,7,Geba,"Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.
 
 Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est."
-79,PROD079,BLU Electro,BLU,Violet,128GB,21.68,Plastic,71685.15,11/25/2017,null,41,Thoughtstorm,"In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus."
-80,PROD080,Celkon C101,Celkon,Puce,256GB,38.25,Metal,61297.37,10/17/2022,null,21,Wikizz,"Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
+PROD079,BLU Electro,BLU,Violet,128GB,21.68,Plastic,71685.15,11/25/2017,null,41,Thoughtstorm,"In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus."
+PROD080,Celkon C101,Celkon,Puce,256GB,38.25,Metal,61297.37,10/17/2022,null,21,Wikizz,"Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
 
 Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus."
-81,PROD081,Huawei Nexus 6P,Huawei,Indigo,512G,27.53,Plastic,27755.57,8/31/2024,null,32,Layo,"Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
+PROD081,Huawei Nexus 6P,Huawei,Indigo,512G,27.53,Plastic,27755.57,8/31/2024,null,32,Layo,"Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
 
 Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.
 
 Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem."
-82,PROD082,Samsung E610,Samsung,Indigo,64GB,31.42,Plastic,22969.7,12/23/2016,null,15,Tagpad,"Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh."
-83,PROD083,Vodafone Smart ultra 6,Vodafone,Indigo,256GB,36.18,Metal,63623.04,03-08-2012,null,48,Meejo,"Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
+PROD082,Samsung E610,Samsung,Indigo,64GB,31.42,Plastic,22969.7,12/23/2016,null,15,Tagpad,"Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh."
+PROD083,Vodafone Smart ultra 6,Vodafone,Indigo,256GB,36.18,Metal,63623.04,03-08-2012,null,48,Meejo,"Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
 
 In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.
 
 Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui."
-84,PROD084,Micromax Funbook Alfa P250,Micromax,Yellow,128GB,5.76,Plastic,19334.58,11/24/2020,null,24,Rhyloo,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
+PROD084,Micromax Funbook Alfa P250,Micromax,Yellow,128GB,5.76,Plastic,19334.58,11/24/2020,null,24,Rhyloo,"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
 
 Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus."
-85,PROD085,Samsung C160,Samsung,Goldenrod,512G,33.18,Plastic,70834.31,07-08-2020,null,37,Oyope,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
-86,PROD086,LG CU915 Vu,LG,Purple,512G,24,Plastic,54220.87,12/17/2023,null,46,Edgeify,"Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
+PROD085,Samsung C160,Samsung,Goldenrod,512G,33.18,Plastic,70834.31,07-08-2020,null,37,Oyope,Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.
+PROD086,LG CU915 Vu,LG,Purple,512G,24,Plastic,54220.87,12/17/2023,null,46,Edgeify,"Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.
 
 In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet."
-87,PROD087,Maxwest Astro X55,Maxwest,Orange,64GB,35.99,Metal,86798.49,12/22/2022,null,0,Eire,"Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
+PROD087,Maxwest Astro X55,Maxwest,Orange,64GB,35.99,Metal,86798.49,12/22/2022,null,0,Eire,"Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.
 
 Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.
 
 Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus."
-88,PROD088,vivo Y20s,vivo,Purple,512G,9.56,Metal,44655.88,5/27/2016,null,40,Plambee,Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
-89,PROD089,Apple iPad Pro 12.9 (2017),Apple,Aquamarine,64GB,22.76,Metal,67202.07,09-09-2013,null,2,Zooveo,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+PROD088,vivo Y20s,vivo,Purple,512G,9.56,Metal,44655.88,5/27/2016,null,40,Plambee,Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.
+PROD089,Apple iPad Pro 12.9 (2017),Apple,Aquamarine,64GB,22.76,Metal,67202.07,09-09-2013,null,2,Zooveo,"Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 
 Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
 
 Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio."
-90,PROD090,LG Stylus 2 Plus,LG,Puce,512G,46.2,Plastic,69771.93,11/21/2015,null,30,Linkbuzz,"In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
+PROD090,LG Stylus 2 Plus,LG,Puce,512G,46.2,Plastic,69771.93,11/21/2015,null,30,Linkbuzz,"In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.
 
 Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.
 
 Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque."
-91,PROD091,Samsung S401i,Samsung,Purple,256GB,21.92,Plastic,13208.38,8/13/2023,null,3,Zazio,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
-92,PROD092,Nokia 5700,Nokia,Maroon,256GB,32.91,Metal,35173.79,6/19/2017,null,5,Janyx,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
+PROD091,Samsung S401i,Samsung,Purple,256GB,21.92,Plastic,13208.38,8/13/2023,null,3,Zazio,Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.
+PROD092,Nokia 5700,Nokia,Maroon,256GB,32.91,Metal,35173.79,6/19/2017,null,5,Janyx,"Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.
 
 Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus."
-93,PROD093,Maxwest Blade,Maxwest,Orange,512G,39.15,Plastic,89960.74,6/30/2020,null,29,Tekfly,"Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
+PROD093,Maxwest Blade,Maxwest,Orange,512G,39.15,Plastic,89960.74,6/30/2020,null,29,Tekfly,"Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
 
 Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede."
-94,PROD094,Huawei P40 lite,Huawei,Puce,512G,18.76,Metal,84056.68,1/14/2019,null,15,Zoozzy,"Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
+PROD094,Huawei P40 lite,Huawei,Puce,512G,18.76,Metal,84056.68,1/14/2019,null,15,Zoozzy,"Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.
 
 Fusce consequat. Nulla nisl. Nunc nisl.
 
 Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum."
-95,PROD095,Huawei MediaPad M5 Lite 8,Huawei,Orange,256GB,25.08,Plastic,990.62,1/19/2025,null,7,Yoveo,Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
-96,PROD096,Huawei Ascend Y511,Huawei,Orange,128GB,16.92,Plastic,81437.9,11-03-2017,null,47,Eadel,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
-97,PROD097,Sagem my855c,Sagem,Red,64GB,5.49,Plastic,33221.44,04-02-2022,null,30,Ailane,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
-98,PROD098,Honor V30 Pro,Honor,Maroon,512G,41.91,Metal,85268.7,03-02-2017,null,24,Devbug,"Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
+PROD095,Huawei MediaPad M5 Lite 8,Huawei,Orange,256GB,25.08,Plastic,990.62,1/19/2025,null,7,Yoveo,Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.
+PROD096,Huawei Ascend Y511,Huawei,Orange,128GB,16.92,Plastic,81437.9,11-03-2017,null,47,Eadel,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
+PROD097,Sagem my855c,Sagem,Red,64GB,5.49,Plastic,33221.44,04-02-2022,null,30,Ailane,Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.
+PROD098,Honor V30 Pro,Honor,Maroon,512G,41.91,Metal,85268.7,03-02-2017,null,24,Devbug,"Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.
 
 Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus."
-99,PROD099,Samsung Google Nexus S I9020A,Samsung,Khaki,512G,36.63,Plastic,42708.88,1/18/2018,null,9,Blogspan,"In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
+PROD099,Samsung Google Nexus S I9020A,Samsung,Khaki,512G,36.63,Plastic,42708.88,1/18/2018,null,9,Blogspan,"In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.
 
 Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst."
-100,PROD100,LG Watch Style,LG,Mauv,512G,9.04,Plastic,11566.48,11/25/2022,null,4,Jabberbean,"Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
+PROD100,LG Watch Style,LG,Mauv,512G,9.04,Plastic,11566.48,11/25/2022,null,4,Jabberbean,"Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.
 
 Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.
 
