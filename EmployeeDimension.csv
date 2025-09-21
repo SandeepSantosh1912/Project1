@@ -1,101 +1,101 @@
 Employee_ID,Employee_First_Name,Employee_Last_Name,Manager_ID,Is_Manager,Employee_Address,Pincode,Employee_Joining_Date
 EMP004,Ryun,Alwell,EMP010,TRUE,9 Vidon Street,3720-029,10/19/2024
-EMP100,Hillary,Iacapucci,EMP008,FALSE,5 Armistice Junction,09-135,4/17/2019
-EMP065,Pren,Levermore,EMP008,FALSE,93 Oneill Center,62010 CEDEX,07-01-2016
-EMP008,Laurens,Benedito,EMP007,TRUE,304 Acker Crossing,,1/29/2024
-EMP065,Cyndie,O'Shee,EMP009,FALSE,97139 Magdeline Lane,M2K,07-02-2014
-EMP098,Adrianna,Darbey,EMP006,FALSE,2 Lakewood Gardens Court,32-060,7/31/2023
-EMP078,Lenora,Ledger,EMP009,TRUE,38116 Valley Edge Road,6145,2/22/2024
-EMP025,Marlo,Simpkin,EMP009,TRUE,77077 Scofield Court,21-205,6/14/2010
-EMP096,Vi,Brach,EMP006,FALSE,6369 Esker Court,,06-08-2022
-EMP038,Katerine,Belasco,EMP005,FALSE,7321 Lake View Circle,14700-000,9/26/2012
-EMP058,Cobbie,McCrohon,EMP010,FALSE,3 Tennyson Alley,36450,02-06-2010
-EMP001,Griselda,Sibson,EMP005,TRUE,31090 Becker Circle,,08-08-2022
-EMP096,Aurelea,Klementz,EMP010,FALSE,3642 Valley Edge Pass,2725-094,11-11-2023
-EMP078,Frannie,Kealey,EMP009,TRUE,60041 Holmberg Plaza,,01-03-2017
-EMP054,Gisela,Liffey,EMP005,TRUE,6189 Thierer Circle,,8/23/2015
-EMP020,Tani,Sarsfield,EMP008,TRUE,862 Brentwood Circle,33538,12-02-2010
-EMP016,Evangeline,Cowdery,EMP006,FALSE,413 Browning Road,,9/19/2013
-EMP053,Ryley,Goodright,EMP008,FALSE,46863 David Trail,,12/31/2021
-EMP063,Richie,Sarjeant,EMP010,TRUE,168 Grover Center,7103,12/15/2020
-EMP083,Lydia,Hazeman,EMP008,TRUE,33276 Barby Avenue,2715-217,1/30/2021
-EMP029,Kirsteni,McWhirter,EMP009,TRUE,9 School Drive,,12/15/2015
-EMP067,Corinne,Herculeson,EMP005,TRUE,93 Arapahoe Crossing,,7/21/2020
-EMP058,Sargent,Jozwiak,EMP009,TRUE,997 Farmco Place,,6/18/2018
-EMP095,Camey,Gianuzzi,EMP005,FALSE,25725 Loftsgordon Street,,9/18/2013
-EMP042,Salvador,McLaverty,EMP007,TRUE,9832 Mallard Place,4485-005,4/18/2021
-EMP082,Sherm,Coneybeer,EMP010,TRUE,56 Tony Street,,2/24/2018
-EMP044,Lexis,Ciccottini,EMP005,TRUE,431 Stuart Terrace,781,7/29/2011
-EMP075,Yurik,Prangnell,EMP005,TRUE,4 Stoughton Terrace,4213,03-03-2024
-EMP051,Octavius,Patillo,EMP008,TRUE,3659 Merchant Court,,9/30/2019
-EMP038,Catharine,Adame,EMP007,FALSE,1 American Drive,,3/29/2024
-EMP016,Germain,Burland,EMP007,FALSE,4027 Burning Wood Trail,,8/17/2012
-EMP013,Kale,Scroyton,EMP010,FALSE,3 Messerschmidt Place,188355,04-12-2022
-EMP025,Vaughan,Lys,EMP006,FALSE,5 Anhalt Pass,,8/31/2017
-EMP081,Andria,Bannon,EMP006,TRUE,69 Quincy Junction,,7/24/2018
-EMP053,Rosemonde,Zorn,EMP008,FALSE,6 Manley Trail,,3/16/2021
-EMP035,Ashely,Biglin,EMP008,FALSE,7280 Derek Place,,03-01-2019
-EMP058,Vevay,Goman,EMP006,TRUE,9848 Holmberg Way,,10/20/2011
-EMP008,Celisse,Challenger,EMP010,FALSE,496 Lake View Drive,75863 CEDEX 18,4/27/2019
-EMP073,Trenna,Gunningham,EMP008,FALSE,41 Manitowish Crossing,,11/15/2023
-EMP022,Giulia,De Blase,EMP010,FALSE,17 Anniversary Circle,38740-000,12/18/2021
-EMP033,Godfry,Rosenblath,EMP009,FALSE,49523 Dwight Junction,13219 CEDEX 02,2/20/2017
-EMP087,Lewie,Imeson,EMP009,TRUE,6667 Oakridge Terrace,4950-102,11-12-2021
-EMP099,Sloan,Chaffin,EMP008,TRUE,865 Grayhawk Hill,735 41,9/18/2020
-EMP020,Roxanne,Leere,EMP007,FALSE,19743 Bayside Junction,,2/22/2016
-EMP052,Selie,Dopson,EMP009,TRUE,17644 Havey Point,94723,4/24/2022
-EMP087,Tandy,Crummey,EMP005,TRUE,010 Arizona Court,,2/28/2014
-EMP003,Wittie,Scurrah,EMP005,FALSE,0817 Lukken Plaza,,6/25/2019
-EMP046,Lisa,Marini,EMP009,FALSE,27214 Huxley Drive,87785,3/27/2016
+EMP005,Hillary,Iacapucci,EMP008,FALSE,5 Armistice Junction,09-135,4/17/2019
+EMP006,Pren,Levermore,EMP008,FALSE,93 Oneill Center,62010 CEDEX,07-01-2016
+EMP007,Laurens,Benedito,EMP007,TRUE,304 Acker Crossing,,1/29/2024
+EMP008,Cyndie,O'Shee,EMP009,FALSE,97139 Magdeline Lane,M2K,07-02-2014
+EMP009,Adrianna,Darbey,EMP006,FALSE,2 Lakewood Gardens Court,32-060,7/31/2023
+EMP010,Lenora,Ledger,EMP009,TRUE,38116 Valley Edge Road,6145,2/22/2024
+EMP011,Marlo,Simpkin,EMP009,TRUE,77077 Scofield Court,21-205,6/14/2010
+EMP012,Vi,Brach,EMP006,FALSE,6369 Esker Court,,06-08-2022
+EMP013,Katerine,Belasco,EMP005,FALSE,7321 Lake View Circle,14700-000,9/26/2012
+EMP014,Cobbie,McCrohon,EMP010,FALSE,3 Tennyson Alley,36450,02-06-2010
+EMP015,Griselda,Sibson,EMP005,TRUE,31090 Becker Circle,,08-08-2022
+EMP016,Aurelea,Klementz,EMP010,FALSE,3642 Valley Edge Pass,2725-094,11-11-2023
+EMP017,Frannie,Kealey,EMP009,TRUE,60041 Holmberg Plaza,,01-03-2017
+EMP018,Gisela,Liffey,EMP005,TRUE,6189 Thierer Circle,,8/23/2015
+EMP019,Tani,Sarsfield,EMP008,TRUE,862 Brentwood Circle,33538,12-02-2010
+EMP020,Evangeline,Cowdery,EMP006,FALSE,413 Browning Road,,9/19/2013
+EMP021,Ryley,Goodright,EMP008,FALSE,46863 David Trail,,12/31/2021
+EMP022,Richie,Sarjeant,EMP010,TRUE,168 Grover Center,7103,12/15/2020
+EMP023,Lydia,Hazeman,EMP008,TRUE,33276 Barby Avenue,2715-217,1/30/2021
+EMP024,Kirsteni,McWhirter,EMP009,TRUE,9 School Drive,,12/15/2015
+EMP025,Corinne,Herculeson,EMP005,TRUE,93 Arapahoe Crossing,,7/21/2020
+EMP026,Sargent,Jozwiak,EMP009,TRUE,997 Farmco Place,,6/18/2018
+EMP027,Camey,Gianuzzi,EMP005,FALSE,25725 Loftsgordon Street,,9/18/2013
+EMP028,Salvador,McLaverty,EMP007,TRUE,9832 Mallard Place,4485-005,4/18/2021
+EMP029,Sherm,Coneybeer,EMP010,TRUE,56 Tony Street,,2/24/2018
+EMP030,Lexis,Ciccottini,EMP005,TRUE,431 Stuart Terrace,781,7/29/2011
+EMP031,Yurik,Prangnell,EMP005,TRUE,4 Stoughton Terrace,4213,03-03-2024
+EMP032,Octavius,Patillo,EMP008,TRUE,3659 Merchant Court,,9/30/2019
+EMP033,Catharine,Adame,EMP007,FALSE,1 American Drive,,3/29/2024
+EMP034,Germain,Burland,EMP007,FALSE,4027 Burning Wood Trail,,8/17/2012
+EMP035,Kale,Scroyton,EMP010,FALSE,3 Messerschmidt Place,188355,04-12-2022
+EMP036,Vaughan,Lys,EMP006,FALSE,5 Anhalt Pass,,8/31/2017
+EMP037,Andria,Bannon,EMP006,TRUE,69 Quincy Junction,,7/24/2018
+EMP038,Rosemonde,Zorn,EMP008,FALSE,6 Manley Trail,,3/16/2021
+EMP039,Ashely,Biglin,EMP008,FALSE,7280 Derek Place,,03-01-2019
+EMP040,Vevay,Goman,EMP006,TRUE,9848 Holmberg Way,,10/20/2011
+EMP041,Celisse,Challenger,EMP010,FALSE,496 Lake View Drive,75863 CEDEX 18,4/27/2019
+EMP042,Trenna,Gunningham,EMP008,FALSE,41 Manitowish Crossing,,11/15/2023
+EMP043,Giulia,De Blase,EMP010,FALSE,17 Anniversary Circle,38740-000,12/18/2021
+EMP044,Godfry,Rosenblath,EMP009,FALSE,49523 Dwight Junction,13219 CEDEX 02,2/20/2017
+EMP045,Lewie,Imeson,EMP009,TRUE,6667 Oakridge Terrace,4950-102,11-12-2021
+EMP046,Sloan,Chaffin,EMP008,TRUE,865 Grayhawk Hill,735 41,9/18/2020
+EMP047,Roxanne,Leere,EMP007,FALSE,19743 Bayside Junction,,2/22/2016
+EMP048,Selie,Dopson,EMP009,TRUE,17644 Havey Point,94723,4/24/2022
+EMP049,Tandy,Crummey,EMP005,TRUE,010 Arizona Court,,2/28/2014
+EMP050,Wittie,Scurrah,EMP005,FALSE,0817 Lukken Plaza,,6/25/2019
+EMP051,Lisa,Marini,EMP009,FALSE,27214 Huxley Drive,87785,3/27/2016
 EMP052,Nesta,Mahon,EMP007,FALSE,834 Marcy Point,696 91,10/17/2023
-EMP018,Mommy,Malone,EMP009,TRUE,6 Crownhardt Circle,,03-09-2012
-EMP003,Larine,Emmerson,EMP005,FALSE,3 Kipling Lane,85260,04-12-2018
-EMP045,Minny,Marvell,EMP006,TRUE,5962 Sunfield Circle,,12-12-2012
-EMP052,Mack,Chastaing,EMP008,TRUE,37846 Moose Alley,,2/21/2023
-EMP100,Any,Martinon,EMP007,FALSE,0488 Buena Vista Drive,88160-000,7/22/2013
-EMP083,Sabrina,Willman,EMP005,TRUE,4679 Anniversary Terrace,,11/18/2015
-EMP044,Freida,Desforges,EMP010,FALSE,0562 Sauthoff Drive,,07-06-2014
-EMP021,Devinne,Sallier,EMP009,FALSE,47 Erie Road,,4/29/2017
-EMP025,Cosmo,VanBrugh,EMP008,FALSE,10 Montana Junction,93742,04-08-2016
-EMP071,Noell,Birchill,EMP006,FALSE,2079 Bayside Alley,75260,1/25/2025
-EMP047,Agretha,Dimbylow,EMP007,TRUE,19 Doe Crossing Plaza,32-626,11-04-2017
-EMP065,Baxy,McNeish,EMP009,TRUE,8518 South Drive,69670-000,7/17/2020
-EMP083,Ardys,Offin,EMP009,FALSE,09785 Gale Alley,,09-12-2017
-EMP022,Sigfrid,Skala,EMP005,TRUE,68 Cardinal Point,,2/13/2025
-EMP033,Angus,Fouldes,EMP007,FALSE,219 Del Mar Junction,,05-02-2017
-EMP046,Antonetta,Killby,EMP009,TRUE,15629 Knutson Alley,,10-08-2023
-EMP019,Hendrika,Loughrey,EMP006,FALSE,67 Basil Center,,03-02-2016
-EMP069,Osbourne,Pledge,EMP009,FALSE,22 Messerschmidt Way,,01-09-2023
-EMP024,Stan,McNeill,EMP005,TRUE,812 Stuart Junction,35351,3/19/2020
-EMP052,Kristyn,Cassella,EMP005,FALSE,04 Tomscot Point,,05-08-2020
-EMP003,Gaile,Crossland,EMP005,TRUE,63893 Fordem Trail,94180,12/29/2010
-EMP090,Demetre,Laughren,EMP008,TRUE,1457 Crescent Oaks Terrace,7522,1/25/2022
-EMP071,John,Anselm,EMP007,FALSE,894 Monterey Drive,,9/19/2022
-EMP013,Creigh,Praten,EMP006,TRUE,02 Valley Edge Trail,,1/16/2018
-EMP046,Raquel,Abbess,EMP006,TRUE,96 Lawn Avenue,8711,05-10-2014
-EMP016,Marla,Liversage,EMP006,TRUE,1 Petterle Drive,,7/16/2012
-EMP075,Lalo,Tillard,EMP010,TRUE,9 Homewood Trail,,12/24/2016
-EMP015,Giulietta,Negus,EMP006,TRUE,098 Miller Hill,,7/14/2023
-EMP021,Geneva,Laws,EMP010,TRUE,047 Pawling Way,77294 CEDEX,9/22/2024
-EMP034,Phylis,Sidon,EMP009,TRUE,107 Sauthoff Junction,,3/17/2014
-EMP065,Corabella,Izchaki,EMP009,FALSE,150 Pawling Parkway,,2/24/2013
-EMP091,Thornie,Habin,EMP006,TRUE,0 Morningstar Hill,,09-11-2018
-EMP081,Ava,Bangiard,EMP005,FALSE,4 Macpherson Parkway,,7/25/2021
-EMP068,Anton,Jerrold,EMP010,TRUE,1762 Homewood Road,2860-010,1/19/2020
-EMP001,Parker,Challice,EMP006,FALSE,012 Forest Run Road,,7/19/2019
-EMP083,Hamid,Tee,EMP007,TRUE,8381 Darwin Trail,196851,9/27/2021
-EMP063,Brena,Farnell,EMP006,FALSE,832 Hollow Ridge Terrace,70179,11/28/2020
-EMP047,Sisile,Peinton,EMP006,TRUE,76909 Calypso Crossing,86430-000,03-02-2024
-EMP011,Pammy,Keemer,EMP010,FALSE,89 Colorado Junction,32253,1/28/2013
-EMP097,Antony,Syncke,EMP008,TRUE,6 Arkansas Circle,,10-08-2024
-EMP032,Maura,Sybe,EMP010,TRUE,357 Carpenter Drive,,3/17/2011
-EMP020,Trumann,Meagher,EMP006,FALSE,86171 Red Cloud Alley,73-201,10/14/2015
-EMP093,Barry,Money,EMP009,FALSE,504 Hoepker Hill,,3/24/2013
-EMP035,Dalton,Thorby,EMP006,TRUE,8338 Bay Crossing,143142,11-02-2011
-EMP075,Rog,Lamb,EMP009,FALSE,651 Cottonwood Circle,368380,1/31/2015
-EMP036,Otes,Woodley,EMP005,FALSE,131 Cody Hill,9202,5/17/2013
-EMP023,Carol-jean,Moulster,EMP010,TRUE,248 Havey Way,,02-04-2017
-EMP042,Gannie,Kolyagin,EMP008,FALSE,698 Pankratz Alley,,6/18/2012
-EMP062,Brant,Pykerman,EMP006,FALSE,724 Upham Pass,,05-12-2017
-EMP026,Tybie,Spohrmann,EMP008,FALSE,7656 Dapin Place,,07-01-2013
-EMP074,Phillis,Pipes,EMP005,TRUE,50972 Commercial Avenue,,12/22/2012
+EMP053,Mommy,Malone,EMP009,TRUE,6 Crownhardt Circle,,03-09-2012
+EMP054,Larine,Emmerson,EMP005,FALSE,3 Kipling Lane,85260,04-12-2018
+EMP055,Minny,Marvell,EMP006,TRUE,5962 Sunfield Circle,,12-12-2012
+EMP056,Mack,Chastaing,EMP008,TRUE,37846 Moose Alley,,2/21/2023
+EMP057,Any,Martinon,EMP007,FALSE,0488 Buena Vista Drive,88160-000,7/22/2013
+EMP058,Sabrina,Willman,EMP005,TRUE,4679 Anniversary Terrace,,11/18/2015
+EMP059,Freida,Desforges,EMP010,FALSE,0562 Sauthoff Drive,,07-06-2014
+EMP060,Devinne,Sallier,EMP009,FALSE,47 Erie Road,,4/29/2017
+EMP061,Cosmo,VanBrugh,EMP008,FALSE,10 Montana Junction,93742,04-08-2016
+EMP062,Noell,Birchill,EMP006,FALSE,2079 Bayside Alley,75260,1/25/2025
+EMP063,Agretha,Dimbylow,EMP007,TRUE,19 Doe Crossing Plaza,32-626,11-04-2017
+EMP064,Baxy,McNeish,EMP009,TRUE,8518 South Drive,69670-000,7/17/2020
+EMP065,Ardys,Offin,EMP009,FALSE,09785 Gale Alley,,09-12-2017
+EMP066,Sigfrid,Skala,EMP005,TRUE,68 Cardinal Point,,2/13/2025
+EMP067,Angus,Fouldes,EMP007,FALSE,219 Del Mar Junction,,05-02-2017
+EMP068,Antonetta,Killby,EMP009,TRUE,15629 Knutson Alley,,10-08-2023
+EMP069,Hendrika,Loughrey,EMP006,FALSE,67 Basil Center,,03-02-2016
+EMP070,Osbourne,Pledge,EMP009,FALSE,22 Messerschmidt Way,,01-09-2023
+EMP071,Stan,McNeill,EMP005,TRUE,812 Stuart Junction,35351,3/19/2020
+EMP072,Kristyn,Cassella,EMP005,FALSE,04 Tomscot Point,,05-08-2020
+EMP073,Gaile,Crossland,EMP005,TRUE,63893 Fordem Trail,94180,12/29/2010
+EMP074,Demetre,Laughren,EMP008,TRUE,1457 Crescent Oaks Terrace,7522,1/25/2022
+EMP075,John,Anselm,EMP007,FALSE,894 Monterey Drive,,9/19/2022
+EMP076,Creigh,Praten,EMP006,TRUE,02 Valley Edge Trail,,1/16/2018
+EMP077,Raquel,Abbess,EMP006,TRUE,96 Lawn Avenue,8711,05-10-2014
+EMP078,Marla,Liversage,EMP006,TRUE,1 Petterle Drive,,7/16/2012
+EMP079,Lalo,Tillard,EMP010,TRUE,9 Homewood Trail,,12/24/2016
+EMP080,Giulietta,Negus,EMP006,TRUE,098 Miller Hill,,7/14/2023
+EMP081,Geneva,Laws,EMP010,TRUE,047 Pawling Way,77294 CEDEX,9/22/2024
+EMP082,Phylis,Sidon,EMP009,TRUE,107 Sauthoff Junction,,3/17/2014
+EMP083,Corabella,Izchaki,EMP009,FALSE,150 Pawling Parkway,,2/24/2013
+EMP084,Thornie,Habin,EMP006,TRUE,0 Morningstar Hill,,09-11-2018
+EMP085,Ava,Bangiard,EMP005,FALSE,4 Macpherson Parkway,,7/25/2021
+EMP086,Anton,Jerrold,EMP010,TRUE,1762 Homewood Road,2860-010,1/19/2020
+EMP087,Parker,Challice,EMP006,FALSE,012 Forest Run Road,,7/19/2019
+EMP088,Hamid,Tee,EMP007,TRUE,8381 Darwin Trail,196851,9/27/2021
+EMP089,Brena,Farnell,EMP006,FALSE,832 Hollow Ridge Terrace,70179,11/28/2020
+EMP090,Sisile,Peinton,EMP006,TRUE,76909 Calypso Crossing,86430-000,03-02-2024
+EMP091,Pammy,Keemer,EMP010,FALSE,89 Colorado Junction,32253,1/28/2013
+EMP092,Antony,Syncke,EMP008,TRUE,6 Arkansas Circle,,10-08-2024
+EMP093,Maura,Sybe,EMP010,TRUE,357 Carpenter Drive,,3/17/2011
+EMP094,Trumann,Meagher,EMP006,FALSE,86171 Red Cloud Alley,73-201,10/14/2015
+EMP095,Barry,Money,EMP009,FALSE,504 Hoepker Hill,,3/24/2013
+EMP096,Dalton,Thorby,EMP006,TRUE,8338 Bay Crossing,143142,11-02-2011
+EMP097,Rog,Lamb,EMP009,FALSE,651 Cottonwood Circle,368380,1/31/2015
+EMP098,Otes,Woodley,EMP005,FALSE,131 Cody Hill,9202,5/17/2013
+EMP099,Carol-jean,Moulster,EMP010,TRUE,248 Havey Way,,02-04-2017
+EMP100,Gannie,Kolyagin,EMP008,FALSE,698 Pankratz Alley,,6/18/2012
+EMP101,Brant,Pykerman,EMP006,FALSE,724 Upham Pass,,05-12-2017
+EMP102,Tybie,Spohrmann,EMP008,FALSE,7656 Dapin Place,,07-01-2013
+EMP103,Phillis,Pipes,EMP005,TRUE,50972 Commercial Avenue,,12/22/2012
